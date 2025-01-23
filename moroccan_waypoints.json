@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mohammed V International Airport",
+    "icao_code": "GMMN",
+    "latitude": 33.3675,
+    "longitude": -7.5898,
+    "type": "airport",
+    "elevation": 200
+  },
+  {
+    "name": "Casablanca VOR",
+    "icao_code": "CAS",
+    "latitude": 33.365,
+    "longitude": -7.586,
+    "type": "VOR",
+    "elevation": 0.0
+  },
+  {
+    "name": "Agadir Al Massira Airport",
+    "icao_code": "GMAD",
+    "latitude": 30.3753,
+    "longitude": -9.5478,
+    "type": "airport",
+    "elevation": 50
+  },
+  {
+    "name": "Marrakech Menara Airport",
+    "icao_code": "GMMX",
+    "latitude": 31.6069,
+    "longitude": -8.0364,
+    "type": "airport",
+    "elevation": 240
+  }
+]
